@@ -7,7 +7,6 @@ public class BankServiceImpl implements BankService {
 		System.out.println("BankServiceImpl:calcSimpleIntrAmt(-,-,-)");
 		try {
 			Thread.sleep(1000);
-		System.out.println("Git changes");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
