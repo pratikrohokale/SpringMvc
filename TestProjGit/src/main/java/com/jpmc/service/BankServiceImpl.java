@@ -7,6 +7,7 @@ public class BankServiceImpl implements BankService {
 		try {
 			Thread.sleep(1000);
 		} catch (Exception e) {
+			System.out.println(e);
 			e.printStackTrace();
 		}
 		if (pAmt <= 0 || rate <= 0 || time <= 0)
