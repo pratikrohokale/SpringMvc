@@ -6,7 +6,9 @@ public class BankServiceImpl implements BankService {
 	public float calcSimpleIntrAmt(float pAmt, float rate, float time) {
 		System.out.println("BankServiceImpl:calcSimpleIntrAmt(-,-,-)");
 		try {
+
 			Thread.sleep(1000);
+
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
