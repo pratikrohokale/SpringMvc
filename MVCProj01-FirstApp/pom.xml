@@ -4,7 +4,7 @@
 	<groupId>csc</groupId>
 	<artifactId>MVCProj01-FirstApp</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>2018.12.1000</version>
 	<name>MVCProj01-FirstApp Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
